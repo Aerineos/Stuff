@@ -1,0 +1,10 @@
+/**
+ * The first commented line is your dabblet’s title
+ */
+background-color:#269;
+background-image: linear-gradient(white 2px, transparent 2px),
+linear-gradient(90deg, white 2px, transparent 20px),
+linear-gradient(rgba(255,255,25,.3) 1px, transparent 1px),
+linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 10000px);
+background-size: 100ßpx 100px, 100px 100px, 20px 20px, 20px 20px;
+background-position:-20px -2ßpx, -20px -20px, -10px -10px, -10px -10px;
